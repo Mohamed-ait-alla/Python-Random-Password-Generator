@@ -20,28 +20,27 @@ Both applications handle the following errors:
 
 ## Installation
 
-To get started, clone this repository to your local machine:
+1. To get started, clone this repository to your local machine:
+    
     ```bash
-
     git clone https://github.com/Mohamed-ait-alla/Python-Random-Password-Generator.git
-
-Navigate to the project directory
+2. Navigate to the project directory
+    
     ```bash
-
-    cd python-random-password-generator
+    cd Python-Random-Password-Generator
 
 ## Requirements
 
-Make sure you have Python 3.x installed on your Windows operating system. You may need to install additional modules that do not come with pip.
+- Make sure you have Python 3.x installed on your Windows operating system. You may need to install additional modules that do not come with pip.
 
-For the console version, install the following modules:
+- For the console version, install the following modules:
+
     ```bash
-
     pip install termcolor pyfiglet pyperclip
+    
+- For the GUI version, install:
 
-For the GUI version, install:
     ```bash
-
     pip install tkinter pyperclip
 
 ## Usage
